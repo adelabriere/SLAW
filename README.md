@@ -1,3 +1,6 @@
+# development in continuing in the zamboni-lab GitHub here:
+#Please report your bug [there](https://github.com/zamboni-lab/SLAW)
+
 # SLAW
 
 SLAW is a scalable, containerized workflow for untargeted LC-MS processing. It was developed by Alexis Delabriere in the [Zamboni Lab](https://imsb.ethz.ch/research/zamboni.html) at ETH Zurich. An explanation of the advantages of SLAW and its motivations of development can be found in this [blog post](https://metabolomics.blog/2021/07/02/slaw/). In brief, the core advantages of SLAW are:
