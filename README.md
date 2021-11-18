@@ -1,4 +1,4 @@
-# development in continuing in the zamboni-lab GitHub. Please report your bug [there](https://github.com/zamboni-lab/SLAW)
+# SLAW development is continuing in the zamboni-lab GitHub. Please report your bug [there](https://github.com/zamboni-lab/SLAW)
 
 # SLAW
 
